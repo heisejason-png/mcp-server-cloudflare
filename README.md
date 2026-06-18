@@ -100,3 +100,4 @@ Some features may require a paid Cloudflare Workers plan. Ensure your Cloudflare
 ## Contributing
 
 Interested in contributing, and running this server locally? See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Created by Jason Scott Heise
